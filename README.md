@@ -30,3 +30,6 @@ No more trial and error with local models. It analyzes your **RAM**, **CPU**, an
 
 * **Repository:** [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
 * **Key Feature:** Automatic hardware detection and performance scoring.
+
+
+https://github.com/open-pencil/open-pencil
