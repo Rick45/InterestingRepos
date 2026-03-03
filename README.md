@@ -33,3 +33,6 @@ No more trial and error with local models. It analyzes your **RAM**, **CPU**, an
 
 
 https://github.com/open-pencil/open-pencil
+
+
+https://github.com/lobehub/lobehub
