@@ -36,3 +36,6 @@ https://github.com/open-pencil/open-pencil
 
 
 https://github.com/lobehub/lobehub
+
+https://github.com/iOfficeAI/OfficeCLI
+
