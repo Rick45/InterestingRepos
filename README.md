@@ -32,10 +32,33 @@ No more trial and error with local models. It analyzes your **RAM**, **CPU**, an
 * **Key Feature:** Automatic hardware detection and performance scoring.
 
 
-https://github.com/open-pencil/open-pencil
+
+---
+
+## ✏️ Open Pencil
+**An AI-native design editor and open-source alternative to Figma.**
+
+Create and collaborate on designs with AI assistance built in from the ground up. It aims to be a fully open, community-driven replacement for proprietary design tools.
+
+* **Repository:** [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)
 
 
-https://github.com/lobehub/lobehub
+---
 
-https://github.com/iOfficeAI/OfficeCLI
+## 🤖 LobeHub
+**A collaborative workspace for building and running multi-agent AI teams.**
+
+Design agent pipelines, mix models from OpenAI, Claude, Gemini, and DeepSeek, and let agent teammates handle work autonomously. Includes a knowledge base, MCP support, and a polished chat UI.
+
+* **Repository:** [lobehub/lobehub](https://github.com/lobehub/lobehub)
+
+
+---
+
+## 📄 OfficeCLI
+**A command-line Office suite built for AI agents.**
+
+Read, edit, and automate Word, Excel, and PowerPoint files from the terminal — no Microsoft Office installation required. Distributed as a single binary, making it easy to drop into any AI agent workflow.
+
+* **Repository:** [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
 
